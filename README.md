@@ -16,7 +16,7 @@
 └─$ whoami
 
 Harsh Patil
-Backend Engineer • DevOps Enthusiast • Linux User
+Backend Engineer • Systems Arch Enthusiast • Linux User
 </pre>
 
 <pre>
@@ -24,7 +24,7 @@ Backend Engineer • DevOps Enthusiast • Linux User
 └─$ cat info.yml
 
 name: Harsh Patil
-role: Backend Engineer | DevOps
+role: Backend Engineer | Systems Arch
 focus: Scalable Systems & Infrastructure
 motto: "Learning knows no limits..!!"
 </pre>
